@@ -6,7 +6,7 @@
 *.gch
 *.pch
 
-# Compiled binaries / executables
+# Compiled b/ executables
 *.exe
 *.out
 *.app
